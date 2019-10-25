@@ -13,7 +13,7 @@ def print_first_directors_movie_titles
   movies_index = 0
   while movies_index < dir_movies.length do
     movies = [movies_index][:title]
-    movies_index += 1
     puts movies
+    movies_index += 1
   end
 end
