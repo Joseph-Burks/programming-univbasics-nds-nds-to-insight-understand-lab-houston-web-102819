@@ -4,9 +4,9 @@ require 'pp'
 
 def pretty_print_nds(nds)
   # Change the code below to pretty print the nds with pp
-  pp directors_database
-  puts directors_database
+  puts pp directors_database
 end
 
 def print_first_directors_movie_titles
+  
 end
